@@ -1,1 +1,6 @@
-We need to implement the KNN-Algorithm without using any python-packages other than numpy and matplotlib.pyplot.
+k-nearest neighbors
+
+#We need to implement the KNN-Algorithm in Iris_flower dataset. 
+#Only use the already imported libraries numpy and matplotlib.pyplot for the assignment. Do not import any other library.
+
+
