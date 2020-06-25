@@ -1,2 +1,2 @@
-# Machine-Learning
-Implement basic machine learning algorithms without using any packages other than Numpy and Matplotlib. 
+# Machine-Learning Assignment
+ Machine Learning Assignment from course "Machine Learning" in Uni Stuttgart.  
